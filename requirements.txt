@@ -1,0 +1,11 @@
+flask==1.1.2    # 框架
+PyMySQL==1.0.2  # ORM
+Jinja2==2.11.3  # 模板
+flask-cors==3.0.10  # 跨域解决方案
+redis==3.5.3    # 缓存服务器处理库
+pillow==8.1.2   # 图像处理
+requests==2.25.1    # 发送HTTP请求的库
+jieba==0.42.1   # Python中文分词库
+whoosh==2.7.4       # Python中用于创建倒排序索引的库
+blinker==1.4    # 支持库，用于flask的对象通信
+flask-msearch==0.2.9    # 基于flask和sqlAlchemy的全文搜索库
